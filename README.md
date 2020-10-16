@@ -8,3 +8,6 @@ Marker Scanning:
 
 1. Demo:
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/68125916/96304959-ba374f80-1005-11eb-9377-6a9a6e899f65.gif)
+
+2. Demo:
+![Demo 2](https://user-images.githubusercontent.com/68125916/96305732-046d0080-1007-11eb-8679-6e2e2472f34a.gif)
