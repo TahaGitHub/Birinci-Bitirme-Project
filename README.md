@@ -10,7 +10,7 @@ Used to build the project many tools:
 ![ScanAdd](https://user-images.githubusercontent.com/68125916/96298765-b0a8ea00-0ffb-11eb-92fb-1c275a22351b.gif)
 
 ## 1. Demo
-There are many videos on youtube channel showing more clearly the demo.\
+There are two videos on my youtube's channel showing more clearly the demos.\
 [First video](https://www.youtube.com/watch?v=2MOhHgdm98U)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/68125916/96304959-ba374f80-1005-11eb-9377-6a9a6e899f65.gif)
