@@ -1,4 +1,4 @@
-# First Graduation Project in Gazi Un.
+# First Graduation Project in [Gazi Un](https://mf-bm.gazi.edu.tr/).
 
 Project idea was more bigger that what done and due to lack of time, I just did the basic scan for Marker "QR" and projection on VR.\
 
